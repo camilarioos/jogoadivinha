@@ -32,3 +32,14 @@ Execute o script Python (substitua jogo.py pelo nome real do seu arquivo, se nec
 
 Bash
 python jogo.py
+
+🛠️ Tecnologias Utilizadas
+Python 3 (Linguagem de programação)
+
+Módulo random (Biblioteca padrão do Python para geração de números aleatórios)
+
+🤝 Contribuindo
+Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias.
+
+📄 Licença
+Este projeto está sob a licença MIT.
