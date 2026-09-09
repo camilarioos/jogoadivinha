@@ -10,6 +10,8 @@ contador = 7
 acertou = False
 
 while contador > 0:
+    print(f'Você tem {contador} tentativas restantes.')
+    contador -= 1
     tentativa = int(input("Digite o seu palpite: "))
     if tentativa == numero_secreto:
       print("Parabéns! Você acertou!")
@@ -19,8 +21,6 @@ while contador > 0:
       print("O número secreto é maior do que o seu palpite.")
     else:
      print("O número secreto é menor do que o seu palpite.")
-     contador -= 1
-     print("Você ainda tem", contador, "tentativas restantes.")
 
 if not acertou:
     print("Você perdeu! O número secreto era:", numero_secreto)
