@@ -18,4 +18,17 @@ Um jogo de terminal clássico e divertido onde o jogador tem **7 tentativas** pa
 Certifique-se de ter o **Python** instalado em sua máquina. Você pode verificar executando o seguinte comando no seu terminal:
 
 ```bash
-python --version
+
+🕹️ Como Jogar
+Clone este repositório ou baixe os arquivos:
+
+Bash
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+Entre na pasta do projeto:
+
+Bash
+cd seu-repositorio
+Execute o script Python (substitua jogo.py pelo nome real do seu arquivo, se necessário):
+
+Bash
+python jogo.py
